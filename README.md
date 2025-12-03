@@ -51,3 +51,6 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 Acknowledgments
 
 Inspiration, code snippets, etc.
+
+
+new contents added from visual studio code 
